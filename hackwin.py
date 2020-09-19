@@ -16,6 +16,9 @@ yellow = '\033[1;33;1m'
 red = '\033[1;31;1m'
 
 os.system('clear')
+print("""{green}
+H4CKW1N""")
+print("""{green}
 [*] Developer => Lytroths
 [*] Country   => Greece
 [*] github    => https://github.com/lytroths{white}
