@@ -259,7 +259,7 @@ get ip 		     :	Get ip of client device and host name.
 cd <dir>	     :	Change dir.
 pwd 		     :	Show current dir location.
 mkdir <name>	     :	Make dir.
-text. 		     :	Make a simple text file with you custom message in it on cient device.
+text. 		     :	Make a simple text file with you custom message in it on client device.
 show dir	     :	Show dir and files in current dir.
 show custom dir <dir>:	Show dir and files from custom dir.
 clear		     :	Clear your terminal.
